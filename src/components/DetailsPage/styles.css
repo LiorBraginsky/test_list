@@ -1,0 +1,40 @@
+.details-page {
+  justify-content: center;
+  padding: 10px;
+}
+
+.product-image-details {
+  width: 400px;
+  height: 400px;
+
+}
+
+.product-title {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+
+.rating-reviews {
+  font-size: 14px;
+  color: gray;
+}
+
+.regular-price {
+  font-size: 15px;
+  color: gray;
+  text-decoration-line: line-through;
+}
+
+.sale-price {
+  font-size: 17px;
+  color: black;
+  font-weight: 600;
+}
+
+.sale-count {
+  padding-left: 10px;
+  font-size: 16px;
+  color: cornflowerblue;
+  font-weight: 500;
+}
